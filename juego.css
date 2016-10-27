@@ -1,0 +1,21 @@
+#juego
+{
+	width: 1278px;
+	height: 720px;
+	position: relative;
+	background: orange;
+}
+
+.pieza
+{
+	position: absolute;
+	width: 426px;
+	height: 240px;
+	background-position: center center;
+	background-size: cover;
+	outline: 3px solid yellow; 
+	transition: all 0.5s ease-in-out;
+}
+
+/*
+.contenedor
